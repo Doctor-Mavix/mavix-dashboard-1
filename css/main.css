@@ -58,6 +58,11 @@ body{
 .breadcrumb a{
     color: #333333;
 }
+/* table */
+.panel-bodel {
+    width:100vw;
+    overflow-x: scroll;
+}
 .wells{
     background: rgba(241, 241, 241, 0.664);
     border: 1px solid #dfdfdf9a;
